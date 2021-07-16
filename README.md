@@ -24,6 +24,8 @@
 
 ![badge](https://www.codewars.com/users/FloWuenne/badges/large)
 
+https://www.codewars.com/users/FloWuenne
+
 ## :headphones: Currently listening to 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flowuenne&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
