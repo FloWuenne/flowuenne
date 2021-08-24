@@ -21,6 +21,12 @@
 
 ## Codewars
 
+If you want to learn a new coding language, try out codewars. I am currently working on improving my python skills there. 
+
+Use this link to sign up and provide me with some Codewars honor in the process:
+
+www.codewars.com/r/spwFaQ
+
 ![badge](https://www.codewars.com/users/FloWuenne/badges/large)
 
 https://www.codewars.com/users/FloWuenne
