@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning nextflow DSL2 and :es:
 - 💬 Ask me about single-cell, cardiovascular genetics, Rshiny and :soccer:
 - 📫 How to reach me: flowuenne@gmail.com
-- :globe_with_meridians: I come from :de: and currently live in :de: but also love :canada:
-- :loudspeaker: I speak :de: :gb: :fr:
+- :loudspeaker: I speak :de: :gb: :fr: and I am learning :es:
 
 ## :octocat: My Github stats
 
