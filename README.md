@@ -32,16 +32,6 @@ www.codewars.com/r/spwFaQ
 
 https://www.codewars.com/users/FloWuenne
 
-## :headphones: Currently listening to 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flowuenne&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-## :laughing: If you need a laugh today
-
-<!-- HTML -->
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue)
-
-
 <!--
 **FloWuenne/flowuenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
