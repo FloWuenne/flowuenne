@@ -1,47 +1,68 @@
-### 👋 Hi there, I'm Florian!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=12A76E&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# Hey, I'm Florian 👋
 
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+**Senior Bioinformatics Engineer @ [Seqera](https://seqera.io)** — the company behind [Nextflow](https://nextflow.io)
 
-- 🌱 I’m currently learning :es:
-- 💬 Ask me about nextflow, spatial omics, single-cell, cardiovascular genetics, Rshiny and :soccer:
-- 📫 How to reach me: flowuenne@gmail.com
-- :loudspeaker: I speak :de: :gb: :fr: and I am learning :es:
+I help life sciences and biotech teams get their computational workflows running in the cloud. My work sits at the intersection of pipeline development, cloud infrastructure, and making bioinformatics accessible to scientists who'd rather focus on biology than YAML files.
 
-If you find anything in my repo useful and want to say thanks, you can [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/flowuenner)
+Previously: cardiovascular genetics research (PhD, Université de Montréal) → spatial omics & multiplexed imaging (postdoc, Institute for Computational Biomedicine, Heidelberg).
 
+---
 
-## :octocat: My Github stats
+### 🔬 What I work on
 
-<p align="center">
+- **Nextflow pipelines** — building, optimizing, and deploying reproducible bioinformatics workflows at scale
+- **Cloud infrastructure** — AWS Batch, GCP, Nebius, Kubernetes (including GPU workloads with H100s for protein design)
+- **[nf-core](https://nf-co.re)** — contributor & maintainer, creator of [nf-core/molkart](https://github.com/nf-core/molkart) for multiplexed tissue imaging analysis
+- **Computational protein design** — [nf-proteindesign](https://github.com/Seqera/nf-proteindesign) pipeline (Boltz-2, ProteinMPNN, OpenFold3)
+- **AI + Bioinformatics** — exploring LLM-powered workflow orchestration, MCP integrations, and agentic tooling for scientific computing
 
-<img src="https://github-readme-stats.vercel.app/api?username=flowuenne&count_private=true&show_icons=true&theme=vue&hide_title=True">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowuenne&hide=html&theme=vue&layout=compact">
+---
 
-</p>
+### 🛠️ Tech Stack
 
-## Codewars
+**Workflow & Orchestration**
 
-If you want to learn a new coding language, try out codewars. I am currently working on improving my python skills there. 
+![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logo=nextflow&logoColor=white)
+![Seqera Platform](https://img.shields.io/badge/Seqera_Platform-24B064?style=flat-square&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-4B8BBE?style=flat-square&logo=snakemake&logoColor=white)
 
-Use this link to sign up and provide me with some Codewars honor in the process:
+**Languages**
 
-www.codewars.com/r/spwFaQ
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-![badge](https://www.codewars.com/users/FloWuenne/badges/large)
+**Cloud & Infrastructure**
 
-https://www.codewars.com/users/FloWuenne
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-<!--
-**FloWuenne/flowuenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & ML**
 
-Here are some ideas to get you started:
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bioinformatics**
+
+![nf-core](https://img.shields.io/badge/nf--core-24B064?style=flat-square&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1F6ABB?style=flat-square&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Biocontainers](https://img.shields.io/badge/Biocontainers-0F80AA?style=flat-square&logoColor=white)
+
+---
+
+### 🌍 Languages I speak
+
+🇩🇪 German · 🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish *(learning)*
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/florianwuennemann/](https://www.linkedin.com/in/florian-w%C3%BCnnemann-322357189?originalSubdomain=ca))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.ca/citations?user=WsGy_hkAAAAJ&hl=en&oi=ao))
