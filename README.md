@@ -2,9 +2,9 @@
 
 **Senior Bioinformatics Engineer @ [Seqera](https://seqera.io)** — the company behind [Nextflow](https://nextflow.io)
 
-I help life sciences and biotech teams get their computational workflows running in the cloud. My work sits at the intersection of pipeline development, cloud infrastructure, and making bioinformatics accessible to scientists who'd rather focus on biology than YAML files.
+I help life sciences and biotech teams get their computational workflows running in the cloud. My work sits at the intersection of pipeline development, cloud infrastructure, and making bioinformatics accessible to scientists.
 
-Previously: cardiovascular genetics research (PhD, Université de Montréal) → spatial omics & multiplexed imaging (postdoc, Institute for Computational Biomedicine, Heidelberg).
+Previously: cardiovascular genetics research (PhD, University of Muenster + CHU Ste Justine research center) → spatial omics & multiplexed imaging (postdoc, Institute for Computational Biomedicine, Heidelberg).
 
 ---
 
