@@ -1,6 +1,6 @@
 # Hey, I'm Florian 👋
 
-**Senior Bioinformatics Engineer @ [Seqera](https://seqera.io)** — the company behind [Nextflow](https://nextflow.io)
+**Senior Bioinformatics Engineer @ [Seqera](https://seqera.io)**.
 
 I help life sciences and biotech teams get their computational workflows running in the cloud. My work sits at the intersection of pipeline development, cloud infrastructure, and making bioinformatics accessible to scientists.
 
